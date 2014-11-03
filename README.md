@@ -8,7 +8,7 @@ Learnings
 * familarise myself with html, css and javascript
 
 Technologies used
-------------------
+-----------------
 
 * HTML
 * CSS
