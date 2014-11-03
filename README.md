@@ -1,5 +1,5 @@
 Motivational Poster
-====================
+===================
 
 On day one of Makers Academy, I produced a motivational poster web app which allows you to search for an image on Google and add some text on it.
 
