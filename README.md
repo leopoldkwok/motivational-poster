@@ -16,7 +16,7 @@ Technologies used
 * Sinatra
 
 How to use
------------
+----------
 
 Clone the repository:
 
