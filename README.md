@@ -1,3 +1,4 @@
+[![Code Climate](https://codeclimate.com/github/leopoldkwok/motivational-poster/badges/gpa.svg)](https://codeclimate.com/github/leopoldkwok/motivational-poster)
 Motivational Poster
 ===================
 
